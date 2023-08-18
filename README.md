@@ -1,2 +1,0 @@
-# site-celular
-SITE-ESCOLA
